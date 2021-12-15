@@ -1,2 +1,2 @@
-# SIB-project
-Pagina web CSS3 &amp; SASS
+# CSS little animation
+HTML & CSS
